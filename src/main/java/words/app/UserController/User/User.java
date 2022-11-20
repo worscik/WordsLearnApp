@@ -1,4 +1,4 @@
-package words.app.UserController;
+package words.app.UserController.User;
 
 public class User {
 

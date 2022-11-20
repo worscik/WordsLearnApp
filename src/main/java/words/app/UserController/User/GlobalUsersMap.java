@@ -1,11 +1,8 @@
-package words.app.UserController;
-
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestParam;
+package words.app.UserController.User;
 
 import java.util.HashMap;
 
-public class AllUsers {
+public class GlobalUsersMap {
 
     User user;
 
